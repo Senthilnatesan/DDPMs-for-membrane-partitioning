@@ -1,7 +1,5 @@
 import numpy as np
 
-import numpy as np
-
 def npy_to_txt(npy_filename, txt_filename):
     # Load the npy file
     data = np.load(npy_filename)
