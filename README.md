@@ -15,11 +15,15 @@ Contains output files from initial umbrella sampling simulations.
 
 #### Citations
 ```
-@article{wang2021denoising,
-  title={From data to noise to data for mixing physics across temperatures with generative artificial intelligence},
-  author={Wang, Yihang and Tiwary, Pratyush},
-  journal={PNAS},
-  year={2022}
+@article{
+doi:10.1073/pnas.2203656119,
+author = {Yihang Wang  and Lukas Herron  and Pratyush Tiwary },
+title = {From data to noise to data for mixing physics across temperatures with generative artificial intelligence},
+journal = {Proceedings of the National Academy of Sciences},
+volume = {119},
+number = {32},
+pages = {e2203656119},
+year = {2022}
 } 
 ```
 ```
